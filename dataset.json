@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of Florida. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in Florida, US",
+  "export_job_id": "a5fff81e-c299-4cde-aa31-d43227511a6a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 737352,
+  "location_name": "Florida",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-florida-us-sample-737352",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/737352/beamstation_737352_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 2.06,
+  "sample_records": 1000,
+  "sample_sha256": "0b44654a2fbd7fad5896047087a3f2f76a6c23a797b4a5febc4618a1a1059dfd",
+  "sample_size_bytes": 2765470,
+  "total_records": 48475,
+  "updated_at": "2026-04-09T13:46:22.998141+00:00"
+}
