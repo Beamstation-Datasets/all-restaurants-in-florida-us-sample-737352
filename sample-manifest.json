@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5fff81e-c299-4cde-aa31-d43227511a6a",
+  "export_job_id": "be271191-6eac-43db-b4b2-83181b609671",
   "id_short": 737352,
-  "published_at": "2026-04-14T07:14:20Z",
+  "published_at": "2026-04-19T19:11:08Z",
   "repo_name": "all-restaurants-in-florida-us-sample-737352",
   "sample_asset_name": "beamstation_737352_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/737352/beamstation_737352_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "0b44654a2fbd7fad5896047087a3f2f76a6c23a797b4a5febc4618a1a1059dfd",
-  "sample_size_bytes": 2765470,
-  "total_records": 48475
+  "sample_sha256": "8ef90ff45e00aa41a212bcd977cc49bda42a413f417f739ccff98bf09949e2d3",
+  "sample_size_bytes": 2283057,
+  "total_records": 48047
 }
