@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Florida. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Florida, US",
-  "export_job_id": "be271191-6eac-43db-b4b2-83181b609671",
+  "export_job_id": "b6cb23dd-d01d-4fc9-aac9-e6addad776c1",
   "github_org": "Beamstation-Datasets",
   "id_short": 737352,
   "location_name": "Florida",
   "location_type": "state",
   "repo_name": "all-restaurants-in-florida-us-sample-737352",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/737352/beamstation_737352_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 2.08,
+  "sample_pct": 3.54,
   "sample_records": 1000,
-  "sample_sha256": "8ef90ff45e00aa41a212bcd977cc49bda42a413f417f739ccff98bf09949e2d3",
-  "sample_size_bytes": 2283057,
-  "total_records": 48047,
-  "updated_at": "2026-04-16T17:32:36.502216+00:00"
+  "sample_sha256": "a69eada17912cc4cf31e40faf1bc2c840e835f91dcad5c5df060f28bbc6d1069",
+  "sample_size_bytes": 2658593,
+  "total_records": 28286,
+  "updated_at": "2026-04-30T18:51:30.905945+00:00"
 }
