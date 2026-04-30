@@ -9,9 +9,9 @@
 | Dataset ID | `737352` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 48,047 records |
-| Free sample size | 1,000 records (2.08%) |
-| Last export | 2026-04-16T17:32:36.502216+00:00 |
+| Full dataset size | 28,286 records |
+| Free sample size | 1,000 records (3.54%) |
+| Last export | 2026-04-30T18:51:30.905945+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-florida-us-sample-737352/releases/download/sample-latest/beamstation_737352_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
